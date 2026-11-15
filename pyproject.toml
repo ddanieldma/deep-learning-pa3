@@ -1,0 +1,13 @@
+[project]
+name = "deep-learning-pa3"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "albumentations>=2.0.8",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "pillow>=13.0.0",
+    "scikit-learn>=1.9.1",
+    "torch>=2.15.0",
+    "torchvision>=0.29.2",
+]
