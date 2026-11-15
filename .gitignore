@@ -1,6 +1,6 @@
 # --- User defined ignores ---------------------------------------------
 
-/dados
+# data folder
 /data
 
 # --- User defined ignores ---------------------------------------------
