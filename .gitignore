@@ -1,3 +1,10 @@
+# --- User defined ignores ---------------------------------------------
+
+dados/
+data/
+
+# --- User defined ignores ---------------------------------------------
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
