@@ -1,0 +1,231 @@
+{
+  "teacher": "bioclip2",
+  "class_names": [
+    "american_black_bear",
+    "american_crow",
+    "bird",
+    "bobcat",
+    "chicken",
+    "coyote",
+    "dog",
+    "domestic_cat",
+    "eastern_chipmunk",
+    "eastern_cottontail",
+    "eastern_fox_squirrel",
+    "eastern_gray_squirrel",
+    "grey_fox",
+    "horse",
+    "northern_raccoon",
+    "red_fox",
+    "striped_skunk",
+    "virginia_opossum",
+    "white_tailed_deer",
+    "wild_turkey",
+    "woodchuck"
+  ],
+  "templates": [
+    [
+      "a photo of a american black bear",
+      "a camera trap photo of a american black bear",
+      "a wildlife photo of a american black bear",
+      "a photo of a black bear",
+      "a camera trap photo of a black bear",
+      "a wildlife photo of a black bear"
+    ],
+    [
+      "a photo of a american crow",
+      "a camera trap photo of a american crow",
+      "a wildlife photo of a american crow",
+      "a photo of a crow",
+      "a camera trap photo of a crow",
+      "a wildlife photo of a crow"
+    ],
+    [
+      "a photo of a bird",
+      "a camera trap photo of a bird",
+      "a wildlife photo of a bird",
+      "a photo of a aves",
+      "a camera trap photo of a aves",
+      "a wildlife photo of a aves",
+      "a photo of a songbird",
+      "a camera trap photo of a songbird",
+      "a wildlife photo of a songbird"
+    ],
+    [
+      "a photo of a bobcat",
+      "a camera trap photo of a bobcat",
+      "a wildlife photo of a bobcat",
+      "a photo of a red lynx",
+      "a camera trap photo of a red lynx",
+      "a wildlife photo of a red lynx",
+      "a photo of a bay lynx",
+      "a camera trap photo of a bay lynx",
+      "a wildlife photo of a bay lynx"
+    ],
+    [
+      "a photo of a chicken",
+      "a camera trap photo of a chicken",
+      "a wildlife photo of a chicken",
+      "a photo of a domestic chicken",
+      "a camera trap photo of a domestic chicken",
+      "a wildlife photo of a domestic chicken",
+      "a photo of a hen",
+      "a camera trap photo of a hen",
+      "a wildlife photo of a hen",
+      "a photo of a rooster",
+      "a camera trap photo of a rooster",
+      "a wildlife photo of a rooster"
+    ],
+    [
+      "a photo of a coyote",
+      "a camera trap photo of a coyote",
+      "a wildlife photo of a coyote",
+      "a photo of a prairie wolf",
+      "a camera trap photo of a prairie wolf",
+      "a wildlife photo of a prairie wolf"
+    ],
+    [
+      "a photo of a dog",
+      "a camera trap photo of a dog",
+      "a wildlife photo of a dog",
+      "a photo of a domestic dog",
+      "a camera trap photo of a domestic dog",
+      "a wildlife photo of a domestic dog"
+    ],
+    [
+      "a photo of a domestic cat",
+      "a camera trap photo of a domestic cat",
+      "a wildlife photo of a domestic cat",
+      "a photo of a cat",
+      "a camera trap photo of a cat",
+      "a wildlife photo of a cat",
+      "a photo of a house cat",
+      "a camera trap photo of a house cat",
+      "a wildlife photo of a house cat"
+    ],
+    [
+      "a photo of a eastern chipmunk",
+      "a camera trap photo of a eastern chipmunk",
+      "a wildlife photo of a eastern chipmunk",
+      "a photo of a chipmunk",
+      "a camera trap photo of a chipmunk",
+      "a wildlife photo of a chipmunk"
+    ],
+    [
+      "a photo of a eastern cottontail",
+      "a camera trap photo of a eastern cottontail",
+      "a wildlife photo of a eastern cottontail",
+      "a photo of a cottontail rabbit",
+      "a camera trap photo of a cottontail rabbit",
+      "a wildlife photo of a cottontail rabbit"
+    ],
+    [
+      "a photo of a eastern fox squirrel",
+      "a camera trap photo of a eastern fox squirrel",
+      "a wildlife photo of a eastern fox squirrel",
+      "a photo of a fox squirrel",
+      "a camera trap photo of a fox squirrel",
+      "a wildlife photo of a fox squirrel"
+    ],
+    [
+      "a photo of a eastern gray squirrel",
+      "a camera trap photo of a eastern gray squirrel",
+      "a wildlife photo of a eastern gray squirrel",
+      "a photo of a gray squirrel",
+      "a camera trap photo of a gray squirrel",
+      "a wildlife photo of a gray squirrel",
+      "a photo of a grey squirrel",
+      "a camera trap photo of a grey squirrel",
+      "a wildlife photo of a grey squirrel"
+    ],
+    [
+      "a photo of a grey fox",
+      "a camera trap photo of a grey fox",
+      "a wildlife photo of a grey fox",
+      "a photo of a gray fox",
+      "a camera trap photo of a gray fox",
+      "a wildlife photo of a gray fox"
+    ],
+    [
+      "a photo of a horse",
+      "a camera trap photo of a horse",
+      "a wildlife photo of a horse",
+      "a photo of a equine",
+      "a camera trap photo of a equine",
+      "a wildlife photo of a equine",
+      "a photo of a domestic horse",
+      "a camera trap photo of a domestic horse",
+      "a wildlife photo of a domestic horse"
+    ],
+    [
+      "a photo of a northern raccoon",
+      "a camera trap photo of a northern raccoon",
+      "a wildlife photo of a northern raccoon",
+      "a photo of a raccoon",
+      "a camera trap photo of a raccoon",
+      "a wildlife photo of a raccoon",
+      "a photo of a common raccoon",
+      "a camera trap photo of a common raccoon",
+      "a wildlife photo of a common raccoon"
+    ],
+    [
+      "a photo of a red fox",
+      "a camera trap photo of a red fox",
+      "a wildlife photo of a red fox"
+    ],
+    [
+      "a photo of a striped skunk",
+      "a camera trap photo of a striped skunk",
+      "a wildlife photo of a striped skunk",
+      "a photo of a skunk",
+      "a camera trap photo of a skunk",
+      "a wildlife photo of a skunk"
+    ],
+    [
+      "a photo of a virginia opossum",
+      "a camera trap photo of a virginia opossum",
+      "a wildlife photo of a virginia opossum",
+      "a photo of a opossum",
+      "a camera trap photo of a opossum",
+      "a wildlife photo of a opossum",
+      "a photo of a possum",
+      "a camera trap photo of a possum",
+      "a wildlife photo of a possum"
+    ],
+    [
+      "a photo of a white tailed deer",
+      "a camera trap photo of a white tailed deer",
+      "a wildlife photo of a white tailed deer",
+      "a photo of a deer",
+      "a camera trap photo of a deer",
+      "a wildlife photo of a deer"
+    ],
+    [
+      "a photo of a wild turkey",
+      "a camera trap photo of a wild turkey",
+      "a wildlife photo of a wild turkey",
+      "a photo of a turkey",
+      "a camera trap photo of a turkey",
+      "a wildlife photo of a turkey",
+      "a photo of a eastern wild turkey",
+      "a camera trap photo of a eastern wild turkey",
+      "a wildlife photo of a eastern wild turkey"
+    ],
+    [
+      "a photo of a woodchuck",
+      "a camera trap photo of a woodchuck",
+      "a wildlife photo of a woodchuck",
+      "a photo of a groundhog",
+      "a camera trap photo of a groundhog",
+      "a wildlife photo of a groundhog",
+      "a photo of a wood chuck",
+      "a camera trap photo of a wood chuck",
+      "a wildlife photo of a wood chuck"
+    ]
+  ],
+  "temperature": 0.01,
+  "use_scientific": false,
+  "use_synonyms": true,
+  "ensemble": true,
+  "batch_size": 32
+}

@@ -38,6 +38,14 @@ from .transforms import (
     supervised_train,
     train_tf,
 )
+from .prompts import (
+    DEFAULT_TEMPLATES,
+    SCIENTIFIC_NAMES,
+    SYNONYMS,
+    build_class_prompts,
+    humanize,
+    load_class_names,
+)
 
 __all__ = [
     # constantes
@@ -56,4 +64,11 @@ __all__ = [
     "supervised_train", "supervised_eval", "train_tf", "eval_tf", "eval_tf_full",
     "simclr_aug", "simclr_aug_no_crop",
     "fixmatch_weak", "fixmatch_strong",
+    # prompts
+    "DEFAULT_TEMPLATES",
+    "SCIENTIFIC_NAMES",
+    "SYNONYMS",
+    "build_class_prompts",
+    "humanize",
+    "load_class_names",
 ]
