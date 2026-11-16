@@ -1,0 +1,16 @@
+true,pred,count,share_of_true
+dog,woodchuck,47,0.7014925373134329
+chicken,woodchuck,44,0.7333333333333333
+american_black_bear,woodchuck,33,0.4024390243902439
+eastern_chipmunk,woodchuck,29,0.9354838709677419
+american_crow,woodchuck,27,0.42857142857142855
+eastern_gray_squirrel,woodchuck,24,0.7058823529411765
+bird,woodchuck,16,0.7272727272727273
+eastern_fox_squirrel,woodchuck,15,0.46875
+domestic_cat,woodchuck,12,0.25
+virginia_opossum,woodchuck,12,0.21818181818181817
+domestic_cat,bobcat,11,0.22916666666666666
+grey_fox,woodchuck,11,0.28205128205128205
+northern_raccoon,woodchuck,11,0.4074074074074074
+eastern_cottontail,woodchuck,10,0.38461538461538464
+striped_skunk,woodchuck,10,0.3225806451612903
