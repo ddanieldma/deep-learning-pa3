@@ -1,4 +1,3 @@
-"""Utilitários de treino/avaliação."""
 from .metric import (
     AverageMeter,
     accuracy,
@@ -7,7 +6,14 @@ from .metric import (
     macro_f1,
     per_class_metrics,
 )
-# futuramente: from .noise import ...
+from .noise import (
+    confidence_filter,
+    correct_labels,
+    estimate_transition_matrix,
+    margin_filter,
+    per_class_threshold,
+    temperature_scale,
+)
 
 __all__ = [
     "AverageMeter",
@@ -16,4 +22,10 @@ __all__ = [
     "confusion_matrix",
     "macro_f1",
     "per_class_metrics",
+    "confidence_filter",
+    "correct_labels",
+    "estimate_transition_matrix",
+    "margin_filter",
+    "per_class_threshold",
+    "temperature_scale",
 ]

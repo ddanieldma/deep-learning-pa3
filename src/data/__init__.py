@@ -46,6 +46,7 @@ from .prompts import (
     humanize,
     load_class_names,
 )
+from .pseudo import PseudoLabelDataset
 
 __all__ = [
     # constantes
@@ -71,4 +72,6 @@ __all__ = [
     "build_class_prompts",
     "humanize",
     "load_class_names",
+    # pseudo
+    "PseudoLabelDataset",
 ]
