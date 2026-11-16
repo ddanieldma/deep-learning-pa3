@@ -1,15 +1,20 @@
-## Parte 0
+# PA3 — Trilha C (professor BioCLIP 2 → aluno ResNet-18)
 
-### Rodar a 0(a) para ter o "piso" da CNN do zero
+## Ambiente
+Python 3.10+; instalar com `uv sync` ou `pip install -r requirements.txt`.
+Para o professor: `pip install open_clip_torch transformers`.
 
-```bash
-python scripts/train_supervised.py --backbone unet --budget 5 --seed 0
-```
+## Comando que treina
+python scripts/train_student.py \
+  --pseudo_path runs/teacher_bioclip2/train_pseudo.pt \
+  --teacher_dir runs/teacher_bioclip2 \
+  --noise perclass --per_class_target 100 --seed 2
 
-### **Rodar a 0(b)** com 3 seeds (o PA pede 3 seeds no orçamento de 5 na Parte 2, e a 0(b) vira a "curva do piso"; vale já rodar as 3):
+## Comando que avalia (entregável)
+python predict.py -imagens data/images/test_public -saida preds.csv
 
-```bash
-for s in 0 1 2; do
-    python scripts/train_supervised.py --backbone resnet18 --budget 5 --seed $s
-done
-```
+## Estrutura
+- `runs/teacher_bioclip2/` — inferência do professor + análise
+- `runs/student_perclass_resnet18_b5_s2/` — modelo entregue
+- `curva_orcamento.csv` — Parte 2
+- `runs/student_perclass_resnet18_b5_s2/gallery/` — Parte 3
